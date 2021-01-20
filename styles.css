@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    color: #fffbf7;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: #325137;
+    font-family: "Alegreya", serif;
+    font-size: 60px;
+    font-weight: 900;
+}
+h4 {
+    text-align: center;
+    color: #46484c;
+}
+input {
+    text-align: center;
+    height: 35px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+button {
+    background-color: #025157;
+    height: 35px;
+    color: #fff;
+    border: none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 4px 20px;
+    margin-left: -10px;
+  }
